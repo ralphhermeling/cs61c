@@ -1,0 +1,9 @@
+---
+BasedOnStyle: Google  # Uses Google's style as a base
+IndentWidth: 4        # Indents using 4 spaces
+TabWidth: 4           # Sets tab width to 4 spaces
+UseTab: Never         # Always use spaces instead of tabs
+BreakBeforeBraces: Attach  # Puts braces on the same line as control statements
+ColumnLimit: 100      # Wraps lines at 100 characters
+AllowShortIfStatementsOnASingleLine: false  # Forces multi-line `if` statements
+---
