@@ -1,9 +1,9 @@
 [submodule "fa24-proj1-starter"]
 	path = fa24-proj1-starter
-	url = git@github.com-ralph-personal:ralphhermeling/fa24-proj1-starter
+	url = https://github.com/ralphhermeling/fa24-proj1-starter
 [submodule "fa24-lab-starter"]
 	path = fa24-lab-starter
-	url = git@github.com-ralph-personal:ralphhermeling/fa24-lab-starter
+	url = https://github.com/ralphhermeling/fa24-lab-starter
 [submodule "fa24-proj2-starter"]
 	path = fa24-proj2-starter
 	url = https://github.com/ralphhermeling/fa24-proj2-starter
